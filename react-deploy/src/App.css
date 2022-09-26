@@ -1,0 +1,75 @@
+.App {
+  text-align: center;
+}
+.Homebtn{
+  height: 5em;
+  position: absolute;
+  left: 85%;
+  top: 2em;
+}
+.Regbtn{
+  height: 5em;
+  position: absolute;
+  left: 85%;
+  top: 7em;
+}
+.WelcomeTextimg{
+  height: 10em;
+  margin-top: 5%;
+}
+.welcometxt{
+  text-align: center;
+  font-size: 2em;
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-top: 5%;
+  color: white;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.fetchul{
+  columns: 1000px 4;
+  background-color: rgb(44, 99, 127);
+  height: em;
+}
+.dogimgbox{
+  max-height: 20em;
+}
+.imgbox{
+  padding-top: 1%;
+  padding-bottom: 1%;
+  background-color: white;
+}
+.dogbox{
+  font-family: 'Secular One', sans-serif;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  background-color: white;
+  color: black;
+}
+.dogtitle{
+  font-family: 'Bungee Spice', cursive;
+}
+.ownertitle{
+  font-family: 'Bungee Spice', cursive;
+}
+.dogimg{
+  padding-top: 5vh;
+  max-height: 100%;
+}
+.ownerbox{
+  font-family: 'Secular One', sans-serif;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  background-color: gray;
+  
+}
+.bigbox{
+  padding-top: 5%;
+}
+.font1{
+  font-family: 'Indie Flower', cursive;
+  font-size: 2.5em;
+}
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
